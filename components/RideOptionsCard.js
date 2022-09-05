@@ -61,8 +61,8 @@ export default function RideOptionsCard() {
           >
             <Image
               style={{
-                width: 100,
-                height: 100,
+                width: 80,
+                height: 80,
                 resizeMode: "contain",
               }}
               source={{ uri: image }}
