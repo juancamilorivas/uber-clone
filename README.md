@@ -2,8 +2,7 @@
 
 ## About the project
 
-Created with [Expo](https://expo.dev/) and [Javascript](https://www.typescriptlang.org). Esta aplicación hace un clon de Uber 2.0 que usa tecnología como Redux para administrar el estado y Google Autocompletar para mostrar en un mapa opciones como distancia y tiempo de viaje.
-
+Created with [Expo](https://expo.dev/) and [Javascript](https://www.typescriptlang.org). This app renders an Uber 2.0 clone that uses technology as Redux to manage the state and Google Autocomplete to show in a map options like distance and travel time
 ## Available Scripts
 
 Install dependencies
